@@ -1,0 +1,27 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts":{
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mreed5812/Dice-Game.git"
+  },
+  "author": "Mike Reed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mreed5812/Dice-Game/issues"
+  },
+  "homepage": "https://github.com/mreed5812/Dice-Game#readme"
+}
